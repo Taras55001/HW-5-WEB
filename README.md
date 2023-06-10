@@ -33,8 +33,6 @@ This script retrieves currency exchange rates from the PrivatBank API and displa
 
     # Example
 
-        ```
         python exchange_rate_script.py 5
-        ```
 
 2.  The script will fetch the exchange rates for the specified number of recent days and display the sale and purchase rates for EUR and USD currencies.
